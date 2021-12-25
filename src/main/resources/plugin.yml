@@ -1,0 +1,5 @@
+main: xyz.prorickey.familytree.FamilyTree
+name: FamilyTree
+author: Prorickey
+version: 1.0.0
+description: A plugin to create families with your friends

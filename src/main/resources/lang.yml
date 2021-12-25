@@ -1,0 +1,4 @@
+CannotExecuteFromConsole: "&cYou cannot execute this command from console"
+PlayerNotOnline: "&cThat player is not currently online"
+TargetAlreadyMarried: "&cThat player is already married"
+AlreadyMarried: "&cYou are already married, divorce your spouse to re-marry"
